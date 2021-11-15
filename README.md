@@ -1,2 +1,2 @@
 # Pandas-Data-Cleaning
-Class With functions To Handle Missing Data And Pandas Functions
+Class Have  functions To Work With Data Extract It And Clean It
